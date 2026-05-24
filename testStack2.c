@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//栈的存储结构(顺序结构--无动态内存分配)
 #define MAXSIZE 100
 typedef int ElemType;
 typedef struct{
